@@ -1,3 +1,73 @@
 * {
     font-family: 'Roboto', sans-serif;
+    background-color: f2f2f2f2;
+}
+
+h1 {
+    color: #2B6777;
+}
+
+h2 {
+    color: #2B6777;
+}
+
+.bg-portfolio {
+    background-color: #2B6777;
+}
+
+.bg-image {
+    margin-top: 10px;
+    background-image: linear-gradient(45deg, #c8d8e4, #f2f2f2 );
+}
+
+.email-me {
+    color: #2B6777;
+}
+
+.btn-outline-light {
+    border-color: #2B6777;
+}
+
+.btn-outline-light:hover {
+    color: #f2f2f2;
+    background-color: #52ab98;
+    border-color: #c8d8e4
+}
+
+.view-case-study{
+    border-color: #2B6777;
+}
+
+.view-case-study:hover{
+    color: #f2f2f2;
+    background-color: #52ab98;
+    border-color: #c8d8e4
+}
+
+.view-resume{
+    border-color: #2B6777;
+}
+
+.view-resume:hover{
+    color: #f2f2f2;
+    background-color: #52ab98;
+    border-color: #c8d8e4
+}
+
+
+#about_me {
+    background-image: linear-gradient(75deg, #ffffff, #f2f2f2 );
+}
+
+.port_card {
+    background-image: linear-gradient(45deg, #c8d8e4, #f2f2f2 );
+}
+
+.card-footer {
+    padding-top: 15px;
+    background-color: transparent;
+}
+
+footer {
+    background-image: linear-gradient(45deg, #c8d8e4, #f2f2f2 );
 }
